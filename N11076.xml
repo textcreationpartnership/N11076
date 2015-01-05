@@ -111,8 +111,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:014038_0000_0F92ABEEC5512908"/>
-            <pb facs="tcp:014038_0001_0F92ABF273682800" rendition="simple:additions"/>
+            <pb facs="unknown:014038_0000_0F92ABEEC5512908"/>
+            <pb facs="unknown:014038_0001_0F92ABF273682800"
+                rendition="simple:additions"/>
             <p>American Liberty, A POEM.</p>
             <q>
                <l>Sit mihi fas audita loqui.</l>
@@ -124,14 +125,14 @@
             <p>NEW-YORK: Printed by J. ANDERSON, at Beekman-Slip. MDCCLXXV.</p>
          </div>
          <div type="argument">
-            <pb facs="tcp:014038_0002_0F92ABF3A3D4FD28"/>
+            <pb facs="unknown:014038_0002_0F92ABF3A3D4FD28"/>
             <head>ARGUMENT.</head>
             <p>PRESENT Situation of Affairs in North-America— Addreſs to the Deity—Unhappy Situation of New-England, in particular—The firſt Emigrations of the Coloniſts from Europe—Cruelties of the Indian Natives— All our Hopes of future Safety depend ſecondarily on our preſent Reſolution and Activity—Impoſſible for Britiſh Soldiers to join heartily for the Purpoſe of en<g ref="char:EOLhyphen"/>ſlaving us—Preſent happy Unanimity among the Colonies—The Baſeneſs of penſioned Writers againſt their native Country—General <hi>Gage's</hi> late Proclama<g ref="char:EOLhyphen"/>tion—The Odium conſequent upon his Undertaking his preſent Office—Character of a weak Monarch—Popery eſtabliſhed in Canada—General <hi>Washington</hi>—The Honourable Continental Congreſs—<hi>Hancock—Adams</hi>— Invitation to Foreigners to retire hither from their reſpective Slaviſh Regions—Bravery of the New-Eng<g ref="char:EOLhyphen"/>land Forces in the late Engagements—The determined Reſolution of the Colonies to be free—The future Hap<g ref="char:EOLhyphen"/>pineſs of America if ſhe ſurmounts the preſent Difficulties.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb n="3" facs="tcp:014038_0003_0F92ABF5A5644018"/>
+            <pb n="3" facs="unknown:014038_0003_0F92ABF5A5644018"/>
             <head>A POEM, &amp;c.</head>
             <l>ONCE more Bellona, forc'd upon the ſtage,</l>
             <l>Inſpires new fury, and awakes her rage,</l>
@@ -162,7 +163,7 @@
                   <hi>Columbia, America ſometimes ſo called, from Columbus the firſt diſcover.</hi>
                </note> down,</l>
             <l>
-               <pb n="4" facs="tcp:014038_0004_0F92ABF622894F00"/>See Boſton groan beneath the ſtrong blockade,</l>
+               <pb n="4" facs="unknown:014038_0004_0F92ABF622894F00"/>See Boſton groan beneath the ſtrong blockade,</l>
             <l>Her freedom vaniſh'd, and deſtroy'd her trade,</l>
             <l>Injur'd, oppreſt, no tyrant could exceed,</l>
             <l>The cruel vengeance of ſo baſe a deed.</l>
@@ -195,7 +196,7 @@
             <l>Then their frail barks, juſt enter'd on the ſea,</l>
             <l>Purſu'd the long uncomfortable way:</l>
             <l>
-               <pb n="5" facs="tcp:014038_0005_0F92ABF6F0A39578"/>But pitying heav'n the juſt deſign ſurveys,</l>
+               <pb n="5" facs="unknown:014038_0005_0F92ABF6F0A39578"/>But pitying heav'n the juſt deſign ſurveys,</l>
             <l>Sends proſp'rous gales, and wafts them o'er the ſeas.</l>
             <l>Behold the ſhore; no riſing cities there,</l>
             <l>To hail them welcome from the ſea appear,</l>
@@ -230,7 +231,7 @@
             <l>And ſhould we now when ſpread thro' ev'ry ſhore,</l>
             <l>Submit to that our fathers ſhunn'd before?</l>
             <l>
-               <pb n="6" facs="tcp:014038_0006_0F92ABF798FC06D0"/>Should we, juſt heaven, our blood and labour ſpent,</l>
+               <pb n="6" facs="unknown:014038_0006_0F92ABF798FC06D0"/>Should we, juſt heaven, our blood and labour ſpent,</l>
             <l>Be ſlaves and minions to a parliament?</l>
             <l>Periſh the thought, nor may one wretch remain,</l>
             <l>Who dares not fight and in our cauſe be ſlain;</l>
@@ -266,7 +267,7 @@
             <l>'Yet there Britannia's arms ſucceſsful ſped,</l>
             <l>'While haughty Spaniards trembled, felt and fled</l>
             <l>
-               <pb n="7" facs="tcp:014038_0007_0F92ABF86B5AADB8"/>So ſay the penſion'd tools of ſlavery,</l>
+               <pb n="7" facs="unknown:014038_0007_0F92ABF86B5AADB8"/>So ſay the penſion'd tools of ſlavery,</l>
             <l>So ſay our traitors, but ſo ſay not I—</l>
             <l>(Tories or traitors, call them which you chooſe,</l>
             <l>Tories are rogues, and traitors imps broke loſe)</l>
@@ -301,7 +302,7 @@
             <l>As if at ſea ſome deſperate madman crew</l>
             <l>Should threat the tempeſt with what they could do,</l>
             <l>
-               <pb n="8" facs="tcp:014038_0008_0F92ABF91E2623C0"/>And like proud Xerxes laſh the angry waves,</l>
+               <pb n="8" facs="unknown:014038_0008_0F92ABF91E2623C0"/>And like proud Xerxes laſh the angry waves,</l>
             <l>At the ſame inſtant that they find their graves.</l>
             <l>But not the pomps and favours of a crown,</l>
             <l>A nations anger, or a ſtateſman frown,</l>
@@ -336,7 +337,7 @@
             <l>Bleſs'd with as little ſenſe as God e'er gave,</l>
             <l>Slave to wrong ſchemes, dupe to a noble knave.</l>
             <l>
-               <pb n="9" facs="tcp:014038_0009_0F92ABFA058F66A0"/>So odd a monarch heaven in wrath would plan,</l>
+               <pb n="9" facs="unknown:014038_0009_0F92ABFA058F66A0"/>So odd a monarch heaven in wrath would plan,</l>
             <l>And ſuch would be the fury of a man.</l>
             <l>See far and wide o'er long Canadia's plains,</l>
             <l>Old popiſh fraud and ſuperſtition reigns;</l>
@@ -372,7 +373,7 @@
             <l>When ſavage thouſands iſſu'd from the wood<g ref="char:punc">▪</g>
             </l>
             <l>
-               <pb n="10" facs="tcp:014038_0010_0F92ABFAD83FFE18"/>When Braddock's fall diſgrac'd the mighty day,</l>
+               <pb n="10" facs="unknown:014038_0010_0F92ABFAD83FFE18"/>When Braddock's fall diſgrac'd the mighty day,</l>
             <l>And Death himſelf ſtood weeping o'er his prey,</l>
             <l>When doubting vict'ry chang'd from ſide to ſide,</l>
             <l>And Indian ſoil with Indian blood was dy'd,</l>
@@ -407,7 +408,7 @@
             <l>Here vernal woods, and flow'ry meadows blow,</l>
             <l>Luxuriant harveſts in rich plenty grow,</l>
             <l>
-               <pb n="11" facs="tcp:014038_0011_0F92ABFE69C68CB0"/>Commerce extends as far as waves can roll</l>
+               <pb n="11" facs="unknown:014038_0011_0F92ABFE69C68CB0"/>Commerce extends as far as waves can roll</l>
             <l>And freedom, God-like freedom crowns the whole.</l>
             <l>And you brave men who ſcorn the dread of death,</l>
             <l>Reſolv'd to conquer to the lateſt breath,</l>
@@ -443,7 +444,7 @@
             <l>If ever Heaven befriended the diſtreſt,</l>
             <l>If ever valour ſuccour'd thoſe oppreſt,</l>
             <l>
-               <pb n="12" facs="tcp:014038_0012_0F92ABFFA3A63880"/>America rojoice, thy ſtandard rear,</l>
+               <pb n="12" facs="unknown:014038_0012_0F92ABFFA3A63880"/>America rojoice, thy ſtandard rear,</l>
             <l>Let the loud trumpet animate to war:</l>
             <l>Thy guardian Genius haſte thee on thy way,</l>
             <l>To ſtrike whole hoſts with terror and diſmay.</l>
